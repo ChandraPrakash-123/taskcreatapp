@@ -1,0 +1,32 @@
+/* .row4{
+height: 50%;
+width: 50%;
+ display: inline-block; 
+font-size: 0px;
+box-sizing: border-box;
+margin-left: 30%;
+float: left; */
+
+*{
+    margin: 10px;
+    padding: 1px;
+}
+
+
+
+    
+.frame{
+    margin: 5% 25% 40% 25%;
+    border: solid black 2px;
+}
+.btn{
+    margin: 10px;
+    height: 25px;
+    width: 50px;
+    cursor: pointer;
+    border: solid black 2px;
+    border-radius: 25px;
+    color:blue;
+    background-color: blue;
+ text-align: right;
+}
